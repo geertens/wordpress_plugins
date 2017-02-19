@@ -1,0 +1,16 @@
+/*
+Theme Name: Spacious Child Theme
+Theme URI: http://themegrill.com/themes/spacious/
+Description: Spacious Child Theme
+Author: ThemeGrill
+Author URI: http://themegrill.com/
+Template: spacious
+Version: 1.0
+*/
+
+
+@import url('http://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic');
+@import url ('http://fonts.googleapis.com/css?family=Lato:400,300italic,300,400italic,700,700italic,900,900italic' rel='stylesheet');
+@import url ('http://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800,900|Poiret+One' rel='stylesheet');
+
+@import url('../spacious/style.css');
